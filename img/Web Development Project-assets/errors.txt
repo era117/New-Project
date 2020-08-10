@@ -1,0 +1,3 @@
+[2020-07-25 22:25:11] layer "team.jpeg": Duplicate path: team.jpeg
+[2020-07-25 22:25:11] layer "+8801743331996 +8801928737807": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2020-07-25 22:25:11] layer "quickmasud@gmail.com quickmasud@yahoo.com": Unsupported extension: com
