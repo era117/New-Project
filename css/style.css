@@ -535,7 +535,7 @@ body a:hover {
     
  
    
-@media screen and (max-width:480px{
+@media screen and (max-width:480px){
   .header {
     padding: 20px 0;
    }
